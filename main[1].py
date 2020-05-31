@@ -16,7 +16,7 @@ FCR=['Unnamed: 3','Unnamed: 17']
 #%%
 ############################################## 
 
-import1= 'sample1.xlsm' # Datei auswählen
+import1= 'sample11.xlsx' # Datei auswählen
 select_model=FCR        # FCR oder LCR auswählen
 #LCR
 
